@@ -11,9 +11,9 @@
       {{nombre}}, {{asistencia}}, {{itinerario}}
    4. Reemplaza los tres valores de abajo con los tuyos.
    ─────────────────────────────────────────────────── */
-const EMAILJS_PUBLIC_KEY = '1x3fgFi3mG6kLdYJd';   // ← reemplaza
+const EMAILJS_PUBLIC_KEY = '-W2p6bWm-JND2uEND';   // ← reemplaza
 const EMAILJS_SERVICE_ID = 'service_6bi7rjs';   // ← reemplaza
-const EMAILJS_TEMPLATE_ID = 'template_xw582uh';  // ← reemplaza
+const EMAILJS_TEMPLATE_ID = 'template_x5ljnio';  // ← reemplaza
 
 emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
 
